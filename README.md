@@ -1,2 +1,3 @@
 # hello-world
-Ideas and resources
+
+Here I place ideas and resources that may be useful during the course
